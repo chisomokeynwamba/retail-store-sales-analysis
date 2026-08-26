@@ -84,4 +84,4 @@ An Excel dashboard was built on a dedicated Dashboard tab featuring 5 dynamic ch
 ---
 
 ## 📸 Dashboard Preview
-*()*
+*(https://github.com/chisomokeynwamba/retail-store-sales-analysis/blob/main/dashboard_overview.png)*
