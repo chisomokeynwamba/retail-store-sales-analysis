@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data analytics workflow applied to a ret
 ---
 
 ## 👩‍💻 Analyst Background
-* **Profile:** BSc Economics graduate with a Google Data Analytics Professional Certification and hands-on experience in business analysis and data-driven decision-making.
+* **Profile:** BSc Economics graduate with experience in business analysis and data-driven decision-making.
 * **Advanced Research Skills:** Conducted time series studies and economic modelling using EViews and statistical tools — covering stationarity testing, cointegration analysis, and long-run forecasting to generate actionable business and financial insights.
 
 ---
@@ -84,4 +84,4 @@ An Excel dashboard was built on a dedicated Dashboard tab featuring 5 dynamic ch
 ---
 
 ## 📸 Dashboard Preview
-*<img width="458" height="478" alt="17877041329726121140008059758259"src="https://github.com/user-attachments/assets/140b3609-1342-4602-a825-7f5c577c0f8a" />*
+*<img width="458" height="478" alt="17877041329726121140008059758259"src>*
