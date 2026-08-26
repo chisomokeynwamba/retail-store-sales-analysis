@@ -84,4 +84,5 @@ An Excel dashboard was built on a dedicated Dashboard tab featuring 5 dynamic ch
 ---
 
 ## 📸 Dashboard Preview
-*<img width="458" height="478" alt="17877041329726121140008059758259"src>*
+*<img width="458" height="478" alt="17877044611656906362342465323946" src="https://github.com/user-attachments/assets/4b939e56-4f23-400f-b265-ae1ab71505b5" />
+*
