@@ -79,8 +79,6 @@ An Excel dashboard was built on a dedicated Dashboard tab featuring 5 dynamic ch
 
 ## 🛠️ Tools Used
 * **Microsoft Excel** — data cleaning, Pivot Tables, dashboarding, and charting.
-* **EViews** — academic research tooling (time series analysis, cointegration modelling).
-
 ---
 
 ## 📸 Dashboard Preview
